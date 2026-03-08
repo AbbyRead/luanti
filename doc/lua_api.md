@@ -1134,7 +1134,7 @@ Sound group
 A sound group is the set of all sound files, whose filenames are of the following
 format:
 `<sound-group name>[.<single digit>].ogg`
-When a sound-group is played, one the files in the group is chosen at random.
+When a sound-group is played, one of the files in the group is chosen at random.
 Sound files can only be referred to by their sound-group name.
 
 Example: When playing the sound `foomod_foosound`, the sound is chosen randomly
